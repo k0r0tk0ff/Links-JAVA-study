@@ -7,10 +7,8 @@ https://spring.io/guides/gs/rest-service/
 https://spring.io/guides/gs/serving-web-content/  
 https://spring.io/guides/gs/spring-boot/  
 
-
-### --- Converting a Spring Boot JAR Application to a WAR ---  
+##### --- Converting a Spring Boot JAR Application to a WAR ---  
 https://spring.io/guides/gs/convert-jar-to-war/  
-https://spring.io/guides/gs/accessing-data-mysql/  
 
 ### --- Spring boot with embedded DB ---
 https://github.com/alexbt/sample-spring-boot-data-jpa-embedded  
