@@ -1,6 +1,6 @@
-h3 Links-JAVA-study  
+### Links-JAVA-study  
 
-h1  ---- SPRING BOOT----  
+#  ---- SPRING BOOT----  
 
 https://spring.io/guides  
 https://spring.io/guides/gs/rest-service/  
