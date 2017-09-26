@@ -1,4 +1,4 @@
-
+  
 ### Links-JAVA-study  
 >>Как править README  
 >>https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md  
@@ -19,7 +19,8 @@ http://www.devglan.com/spring-boot/spring-boot-h2-database-example
 
 ##### Add H2 DB to spring application
 https://dzone.com/articles/integrate-h2-database-in-your-spring-boot-applicat  
-http://mycuteblog.com/h2-database-example-hibernate-spring-boot/
+http://mycuteblog.com/h2-database-example-hibernate-spring-boot/  
+http://memorynotfound.com/spring-boot-spring-data-jpa-hibernate-h2-web-console/
 
 ### --- Angular 2 Frontent with SpringBoot (Java) Backend
 https://github.com/mrin9/Angular-SpringBoot-REST-JWT
