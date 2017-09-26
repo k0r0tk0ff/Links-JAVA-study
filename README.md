@@ -25,4 +25,7 @@ http://memorynotfound.com/spring-boot-spring-data-jpa-hibernate-h2-web-console/
 http://dreamhack.it/spring/2017/03/29/spring-boot-jpa-h2-web-application.html  
 
 ### --- Angular 2 Frontent with SpringBoot (Java) Backend
-https://github.com/mrin9/Angular-SpringBoot-REST-JWT
+https://github.com/mrin9/Angular-SpringBoot-REST-JWT  
+
+#####  spring-boot-h2-datasource-thymeleaf-gradle-example
+https://www.firstfewlines.com/post/spring-boot-h2-datasource-thymeleaf-gradle-example/
