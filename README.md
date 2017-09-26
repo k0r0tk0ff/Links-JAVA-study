@@ -14,7 +14,10 @@ https://spring.io/guides/gs/convert-jar-to-war/
 
 ### --- Spring boot with embedded DB ---
 https://github.com/alexbt/sample-spring-boot-data-jpa-embedded  
-http://www.devglan.com/spring-boot/spring-boot-h2-database-example  
+http://www.devglan.com/spring-boot/spring-boot-h2-database-example
+
+##### Add H2 DB to spring application
+https://dzone.com/articles/integrate-h2-database-in-your-spring-boot-applicat
 
 ### --- Angular 2 Frontent with SpringBoot (Java) Backend
 https://github.com/mrin9/Angular-SpringBoot-REST-JWT
