@@ -1,4 +1,4 @@
-### Links-JAVA-study  
+  ### Links-JAVA-study  
 >>Как править README  
 >>https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md  
 
@@ -28,4 +28,7 @@ http://dreamhack.it/spring/2017/03/29/spring-boot-jpa-h2-web-application.html
 https://github.com/mrin9/Angular-SpringBoot-REST-JWT  
 
 #####  spring-boot-h2-datasource-thymeleaf-gradle-example
-https://www.firstfewlines.com/post/spring-boot-h2-datasource-thymeleaf-gradle-example/
+https://www.firstfewlines.com/post/spring-boot-h2-datasource-thymeleaf-gradle-example/  
+
+>>##### Book: Pro SpringBoot - source code  
+>>https://github.com/apress/pro-spring-boot
