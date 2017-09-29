@@ -1,4 +1,4 @@
-  ### Links-JAVA-study  
+### Links-JAVA-study  
 >>Как править README  
 >>https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md  
 
@@ -32,3 +32,8 @@ https://www.firstfewlines.com/post/spring-boot-h2-datasource-thymeleaf-gradle-ex
 
 >>##### Book: Pro SpringBoot - source code  
 >>https://github.com/apress/pro-spring-boot
+
+##### Описание построения приложения с перехватом ошибок и логированием  
+##### Используется SpringBoot + Web + DB  
+http://developer-remarks.blogspot.ru/2016/06/spring-boot-resful-service.html
+
