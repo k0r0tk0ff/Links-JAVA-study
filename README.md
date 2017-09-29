@@ -35,5 +35,6 @@ https://www.firstfewlines.com/post/spring-boot-h2-datasource-thymeleaf-gradle-ex
 
 ##### Описание построения приложения с перехватом ошибок и логированием  
 ##### Используется SpringBoot + Web + DB  
-http://developer-remarks.blogspot.ru/2016/06/spring-boot-resful-service.html
+http://developer-remarks.blogspot.ru/2016/06/spring-boot-resful-service.html  
+http://developer-remarks.blogspot.ru/2017/02/spring-boot-dao.html
 
