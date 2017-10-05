@@ -37,5 +37,7 @@ https://www.firstfewlines.com/post/spring-boot-h2-datasource-thymeleaf-gradle-ex
 ##### Используется SpringBoot + Web + DB  
 http://developer-remarks.blogspot.ru/2016/06/spring-boot-resful-service.html  
 http://developer-remarks.blogspot.ru/2017/02/spring-boot-dao.html  
-http://developer-remarks.blogspot.ru/search/label/postgresql
+http://developer-remarks.blogspot.ru/search/label/postgresql  
+
+https://github.com/TechPrimers/spring-jpa-hibernate-one-to-many-example
 
