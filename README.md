@@ -41,5 +41,7 @@ http://developer-remarks.blogspot.ru/search/label/postgresql
 
 https://github.com/TechPrimers/spring-jpa-hibernate-one-to-many-example  
 http://javasampleapproach.com/spring-framework/spring-data/configure-spring-jpa-one-to-many-relationship-springboot  
-https://dzone.com/tutorials/java/hibernate/hibernate-example/hibernate-mapping-one-to-many-using-annotations-1.html
+https://dzone.com/tutorials/java/hibernate/hibernate-example/hibernate-mapping-one-to-many-using-annotations-1.html  
+
+>>https://habrahabr.ru/post/132385/
 
