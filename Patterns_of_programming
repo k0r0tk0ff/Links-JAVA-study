@@ -1,0 +1,5 @@
+
+###### Обработка NullPointException  
+https://habrahabr.ru/post/309462/  
+>> Pattern "Special case" - https://martinfowler.com/eaaCatalog/specialCase.html  
+>> use Optional
