@@ -45,3 +45,9 @@ https://dzone.com/tutorials/java/hibernate/hibernate-example/hibernate-mapping-o
 
 >>https://habrahabr.ru/post/132385/
 
+
+https://spring.io/guides/tutorials/bookmarks/  
+https://spring.io/guides/gs/rest-hateoas/  
+https://projects.spring.io/spring-hateoas/#quick-start  
+https://spring.io/guides/gs/accessing-data-rest/
+
