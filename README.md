@@ -2,6 +2,9 @@
 >>Как править README  
 >>https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md  
 
+Бесплатный курс по java (логирование)
+https://stepik.org/course/187/syllabus
+
 #  ---- SPRING BOOT ----  
 
 https://spring.io/guides  
