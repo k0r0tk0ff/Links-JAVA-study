@@ -1,0 +1,54 @@
+package ru.ezhov.groovy.decorator;
+
+public class App {
+    public static void main(String[] args) {
+        Decorator1 decorator = new DecoratorLog1(
+                new DecoratorHttp1(
+                        new DecoratorSimple1()
+                )
+        );
+        decorator.print();
+    }
+}
+
+interface Decorator1 {
+    void print();
+}
+
+class DecoratorHttp1 implements Decorator1 {
+
+    private Decorator1 decorator;
+
+    public DecoratorHttp1(Decorator1 decorator) {
+        this.decorator = decorator;
+    }
+
+    @Override
+    public void print() {
+        System.out.println("Print to http");
+        decorator.print();
+    }
+}
+
+class DecoratorLog1 implements Decorator1 {
+
+    private Decorator1 decorator;
+
+    public DecoratorLog1(Decorator1 decorator) {
+        this.decorator = decorator;
+    }
+
+    @Override
+    public void print() {
+        System.out.println("Hello I'm start logging action");
+        decorator.print();
+        System.out.println("I'm stop logging action");
+    }
+}
+
+class DecoratorSimple1 implements Decorator1 {
+    @Override
+    public void print() {
+        System.out.println("From simple decorator");
+    }
+}
