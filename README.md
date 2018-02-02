@@ -1,3 +1,5 @@
+
+
 ### Links-JAVA-study  
 >>Как править README  
 >>https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md  
@@ -47,10 +49,10 @@ http://javasampleapproach.com/spring-framework/spring-data/configure-spring-jpa-
 https://dzone.com/tutorials/java/hibernate/hibernate-example/hibernate-mapping-one-to-many-using-annotations-1.html  
 
 >>https://habrahabr.ru/post/132385/
-
-
 https://spring.io/guides/tutorials/bookmarks/  
 https://spring.io/guides/gs/rest-hateoas/  
 https://projects.spring.io/spring-hateoas/#quick-start  
 https://spring.io/guides/gs/accessing-data-rest/
 
+##### Embedded TomCat
+http://www.onjava.com/pub/a/onjava/2002/04/03/tomcat.html
