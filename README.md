@@ -37,6 +37,7 @@ https://www.firstfewlines.com/post/spring-boot-h2-datasource-thymeleaf-gradle-ex
 
 >>##### Book: Pro SpringBoot - source code  
 >>https://github.com/apress/pro-spring-boot
+>>http://zetcode.com/web/embeddedtomcat/
 
 ##### Описание построения приложения с перехватом ошибок и логированием  
 ##### Используется SpringBoot + Web + DB  
