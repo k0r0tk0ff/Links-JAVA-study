@@ -1,0 +1,15 @@
+
+1. Java Message Service. ActiveMQ.
+
+Общие понятия (брокер, очередь, топик, сообщение). 2 ч.
+
+Режимы получения сообщений:  
+Session.SESSION_TRANSACTED,  
+Session.AUTO_ACKNOWLEDGE,  
+Session.DUPS_OK_ACK,  
+Session.CLIENT_ACKNOWLEDGE.  
+
+Персистентные и неперсистентные сообщения. 2-3 ч.  
+Embedded Broker. Запуск, настройка. VM-connector. 2 ч.  
+Плагины для брокера. Подключение плагина к Embedded брокеру. Обзор плагина авторизации. 1 ч. 
+
