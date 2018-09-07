@@ -34,6 +34,7 @@ https://jsehelper.blogspot.com/2016/12/jms.html
            Модели подтверждения получения сообщения 
            
 Session.SESSION_TRANSACTED - передача сообщений в режиме транзакций 
+      (можно сделать commit, rollback).
       (If a Session is transacted, the acknowledgement mode is ignored)
 
 Session.AUTO_ACKNOWLEDGE - в случае синхронного получения сообщений, 
