@@ -8,7 +8,7 @@ Exchange, Message
 Обработка исключений.  
 Конфигурирование менеджера распределенных транзакций для использования в маршрутах. 
 
-(  ### EIP  
+  ### EIP  
 Enterprice integration patterns  
 
 http://camel.apache.org/enterprise-integration-patterns.html
@@ -23,7 +23,7 @@ https://github.com/k0r0tk0ff/Links-JAVA-study/blob/master/ESB/%D0%A1%D1%82%D0%B8
 ередаваемой от отправителя получателю выступает message. Также, по аналогии с протоколом обмена информацией TCP 
 присутствуют маршрутизатор, фильтры, message endpoints (отправитель и получатель).
 В дополнении, также существуют трасляторы - где возможна можидикация сообщений, 
-каналы - где осуществяется логика доставки сообщений одному или нескольким получателям.
+   каналы - где осуществяется логика доставки сообщений одному или нескольким получателям.
 
 https://www.enterpriseintegrationpatterns.com/patterns/messaging/index.html
 
@@ -45,10 +45,10 @@ http://camel.apache.org/dsl.html
 Используется стиль построения buider - необходимо расширить класс RouteBuilder 
 и реализовать метод configure.
 
-  Пример: (http://camel.apache.org/java-dsl.html)  
-    import org.apache.camel.builder.RouteBuilder;  
-    public class MyRouteBuilder extends RouteBuilder {  
-    public void configure() {  
+      Пример: (http://camel.apache.org/java-dsl.html)  
+      import org.apache.camel.builder.RouteBuilder;  
+      public class MyRouteBuilder extends RouteBuilder {  
+      public void configure() {  
         // here is a sample which processes the input files  
         // (leaving them in place - see the 'noop' flag)  
         // then performs content based routing on the message using XPath  
@@ -58,8 +58,8 @@ http://camel.apache.org/dsl.html
             .to("file:target/messages/uk")  
             .otherwise()  
             .to("file:target/messages/others");  
-    }  
-}  
+      }  
+      }  
 
 
 
