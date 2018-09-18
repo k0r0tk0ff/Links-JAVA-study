@@ -29,8 +29,10 @@ https://www.enterpriseintegrationpatterns.com/patterns/messaging/index.html
 
 Рассматривается схема - 
 
-Endpoint        --- Message --- Channel --- Router --- Translator --- Endpoint 
-Application A                                                         Application B
+Endpoint        --- Message --- Channel --- Router --- Translator --- Endpoint   
+Application A                                                         Application B  
+
+
 
 
 
