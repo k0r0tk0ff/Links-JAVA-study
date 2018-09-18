@@ -1,4 +1,4 @@
-   ## 3. Apache Camel  
+  ## 3. Apache Camel  
   
 EIP.  
 Обзор функциональности и архитектуры.  
@@ -30,7 +30,11 @@ https://www.enterpriseintegrationpatterns.com/patterns/messaging/index.html
 Рассматривается схема - 
 
 Endpoint        --- Message --- Channel --- Router --- Translator --- Endpoint   
-Application A                                                         Application B  
+Application A   --------------------------------------------------->  Application B  
+
+
+
+
 
 
 
