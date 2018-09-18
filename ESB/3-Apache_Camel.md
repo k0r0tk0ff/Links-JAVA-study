@@ -1,4 +1,4 @@
-  ## 3. Apache Camel  
+   ## 3. Apache Camel  
 EIP.  
 Обзор функциональности и архитектуры.  
 Exchange, Message  
@@ -20,7 +20,7 @@ https://github.com/k0r0tk0ff/Links-JAVA-study/blob/master/ESB/%D0%A1%D1%82%D0%B8
 
   ### Обзор функциональности и архитектуры. Exchange, Message   
 (Рассматривается технология Messaging System - где в качестве атомарной порции информации,
-передаваемой от отправителя получателю выступает message. Также, по аналогии с протоколом обмена информацией TCP 
+ередаваемой от отправителя получателю выступает message. Также, по аналогии с протоколом обмена информацией TCP 
 присутствуют маршрутизатор, фильтры, message endpoints (отправитель и получатель).
 В дополнении, также существуют трасляторы - где возможна можидикация сообщений, 
 каналы - где осуществяется логика доставки сообщений одному или нескольким получателям.
@@ -45,11 +45,10 @@ http://camel.apache.org/dsl.html
 Используется стиль построения buider - необходимо расширить класс RouteBuilder 
 и реализовать метод configure.
 
-Пример: (http://camel.apache.org/java-dsl.html)  
-  import org.apache.camel.builder.RouteBuilder;  
-  public class MyRouteBuilder extends RouteBuilder {  
-  
-  public void configure() {  
+  Пример: (http://camel.apache.org/java-dsl.html)  
+    import org.apache.camel.builder.RouteBuilder;  
+    public class MyRouteBuilder extends RouteBuilder {  
+    public void configure() {  
         // here is a sample which processes the input files  
         // (leaving them in place - see the 'noop' flag)  
         // then performs content based routing on the message using XPath  
