@@ -136,6 +136,10 @@ ID_ART,NAME,CODE,USERNAME,GUID
 ...
 Предполагаемое время решения - 4-6 ч.
 
+   #### Решение здесь - https://github.com/k0r0tk0ff/generate_xml_and_convert_to_csv
+
 7. Средства журналирования приложений  
 Java Util Logging(JUL), Simple Logger for Java (SLF4J), LOG4J 
 http://www.skipy.ru/useful/logging.html
+
+   #### Повсеместно, в решениях задач используется реализация логирования log4j2 через обертку slf4j
